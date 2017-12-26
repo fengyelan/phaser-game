@@ -1,0 +1,13 @@
+@charset "UTF-8";
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #ffffff;
+  font-family: PingFang,miui, PingHei,San Francisco, MILanTing, '\5C0F\7C73\5170\4EAD', '\5FAE\8F6F\96C5\9ED1', DeliciousRoman, sans-serif;
+  width: 100%;
+  overflow-x: hidden; }
+
+::-webkit-scrollbar {
+  opacity: 0;
+  width: 0;
+  height: 0; }
